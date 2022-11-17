@@ -155,15 +155,6 @@ namespace _8082_Waymo_PC.Properties {
             }
         }
         
-        [global::System.Configuration.ApplicationScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("V1-U")]
-        public string Version {
-            get {
-                return ((string)(this["Version"]));
-            }
-        }
-        
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("FLEX-M4-CR2-LEAK TEST")]
@@ -197,6 +188,15 @@ namespace _8082_Waymo_PC.Properties {
             }
             set {
                 this["LogDirectory"] = value;
+            }
+        }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("V1-T")]
+        public string Version {
+            get {
+                return ((string)(this["Version"]));
             }
         }
     }
