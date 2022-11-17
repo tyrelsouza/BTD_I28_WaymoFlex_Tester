@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Event xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dumptruck.xsd">
+  <start_time>2022-06-16T16:42:06.7007641Z</start_time>
+  <end_time>2022-06-16T16:42:45.7435212Z</end_time>
+  <unit_serial>DYN072135100664</unit_serial>
+  <station_name>{Waymo designated station name for the tester}</station_name>
+  <station_type>{Waymo designated test type name for the kind of test}</station_type>
+  <outcome>TEST_PASS</outcome>
+  <operator_name>{Optional operator name input}</operator_name>
+  <TestParameter>
+    <name>Initial Pressure</name>
+    <parameter_status>PASS</parameter_status>
+    <numeric_value>30.123</numeric_value>
+    <numeric_minimum>27.0</numeric_minimum>
+    <numeric_maximum>33.0</numeric_maximum>
+  </TestParameter>
+  <TestParameter>
+    <name>Delta Pa</name>
+    <parameter_status>PASS</parameter_status>
+    <numeric_value>4.340760</numeric_value>
+    <numeric_minimum>-30.013</numeric_minimum>
+    <numeric_maximum>30.006</numeric_maximum>
+  </TestParameter>
+  ...
+</Event>

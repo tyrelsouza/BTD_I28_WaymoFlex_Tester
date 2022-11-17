@@ -1,0 +1,36 @@
+Calibrating DAC1
+Enter Voltage 
+Calibrating DAC1
+Enter Voltage 
+= 0.38
+Enter Voltage 
+= 1.29
+Enter Voltage 
+= 3.06
+Enter Voltage 
+= 6.62
+Enter Voltage 
+= 10.21
+Enter Voltage 
+= 12.07
+
+SEE=7.96412  COD=0.99997196
+Coefs 278.901123 144.999618
+250. 0.384 252.
+500. 1.290 505.
+1000. 3.059 998.
+2000. 6.620 1991.
+3000. 10.213 2993.
+3500. 12.066 3510.
+VTable:
+0.0 = 145.
+0.5 = 284.
+1.0 = 424.
+1.5 = 563.
+2.0 = 703.
+2.5 = 842.
+3.0 = 982.
+3.5 = 1121.
+4.0 = 1261.
+4.5 = 1400.
+Save this Calibration (y/n) ? 

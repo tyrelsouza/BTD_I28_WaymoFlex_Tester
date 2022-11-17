@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ReadyCom" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM7</Value>
+    </Setting>
+    <Setting Name="Default_File" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"c:\\BTD\\DMD-III Seq\\"</Value>
+    </Setting>
+    <Setting Name="I28" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM6</Value>
+    </Setting>
+    <Setting Name="Zebra" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM8</Value>
+    </Setting>
+    <Setting Name="Fix_1_Prog" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Fix_2_Prog" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="DebugPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM29</Value>
+    </Setting>
+    <Setting Name="HR_ID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">40</Value>
+    </Setting>
+    <Setting Name="SV_ID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="FlexURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://10.0.0.1/Burgundy/fftester20.asmx</Value>
+    </Setting>
+    <Setting Name="EnableFlexFlow" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Version" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">V1-U</Value>
+    </Setting>
+    <Setting Name="StationName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">FLEX-M4-CR2-LEAK TEST</Value>
+    </Setting>
+    <Setting Name="DebugLogs" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LogDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\\benchtoplogs</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
